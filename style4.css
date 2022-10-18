@@ -1,0 +1,38 @@
+.main{
+
+    display: block;
+    text-align: center;
+}
+
+.btn{
+
+display: block;
+margin-top: 110px;
+
+/* font-size: 30px; */
+
+
+}
+
+button{
+
+font-size: 20px;
+
+}
+.para{
+
+  display: flex;
+  justify-content: center;
+  /* justify-content: space-between; */
+  gap: 10px;
+  text-decoration: underline;
+
+
+}
+p{
+    /* border-bottom: 1px solid black; */
+}
+
+.sum{
+    text-decoration: underline;
+}

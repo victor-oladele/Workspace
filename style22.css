@@ -1,0 +1,83 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+
+
+
+
+img{
+
+margin: auto;
+padding: auto;
+max-width: 45%;
+display: block;
+justify-content: center;
+border: 2px solid black;
+border-radius: 40px;
+
+
+}
+
+.main{
+
+display: block;
+text-align: center;
+}
+
+.shoe{
+
+    font-size: 45px;
+    margin-right: 430px;
+
+
+}
+
+button{
+
+font-size: 45px;
+margin-right:290px ;
+border: none;
+border-radius: 10px;
+background-color: lightblue;
+}
+
+#error{
+
+text-align: center;
+color: brown;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
