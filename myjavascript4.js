@@ -1,6 +1,9 @@
 // let num1 = 8
+
 // let num2 = 2
+
 // document.getElementById("number-el1").textContent = num1
+
 // document.getElementById("number-el2").textContent = num2
 
 // function add(){
@@ -36,40 +39,163 @@
 
 
 
-let num1 = 7
-let num2 = 8
-let result = num1 + num2
+// let num1 = 7
+// let num2 = 8
+// let result = num1 + num2
 
-document.getElementById("number-el1").textContent = num1
-document.getElementById("number-el2").textContent = num2
-
-
-function add() {
+// document.getElementById("number-el1").textContent = num1
+// document.getElementById("number-el2").textContent = num2
 
 
-    let result = num1 + num2
+// function add() {
+
+
+//     let result = num1 + num2
+//     document.getElementById("number-el3").textContent += result
+// } 
+
+// function substract(){
+
+//     let result = num1 - num2
+//     document.getElementById("number-el3").textContent += result
+    
+// }
+
+// function multiply(){
+
+//     let result = num1 * num2
+//     document.getElementById("number-el3").textContent += result
+
+// }
+// function divide(){
+
+//     let result = num1 / num2
+//     document.getElementById("number-el3").textContent += result
+
+// }
+
+
+
+// let num1 = 5
+// let num2 = 7 
+
+
+// document.getElementById("number-el1").textContent = num1
+// document.getElementById("number-el2").textContent = num2
+
+// function add(){
+
+// let result = num1 + num2
+// document.getElementById("number-el3").textContent += result
+// console.log(result)
+
+// }
+
+
+// function substract(){
+
+//     let result = num1 - num2
+//     document.getElementById("number-el3").textContent += result
+//     console.log(result)
+// }
+
+// function multiply(){
+
+//     let result = num1 * num2
+//     document.getElementById("number-el3").textContent += result
+//     console.log(result)
+// }
+
+
+// function divide(){
+
+//     let result = num1 / num2
+//     document.getElementById("number-el3").textContent += result
+
+//     console.log(result)
+// }
+
+
+
+let number1 = 7
+let number2 = 8
+
+let result = number1 + number2
+
+document.getElementById("number-el1").textContent = number1
+document.getElementById("number-el2").textContent = number2
+
+function add(){
+
+
+    let result = number1 + number2
     document.getElementById("number-el3").textContent += result
-} 
+    console.log(result)
+
+}
+
 
 function substract(){
 
-    let result = num1 - num2
-    document.getElementById("number-el3").textContent += result
-    
+let result = number1 - number2
+document.getElementById("number-el3").textContent += result
+console.log(result)
+
 }
 
 function multiply(){
 
-    let result = num1 * num2
+
+    let result = number1 * number2
     document.getElementById("number-el3").textContent += result
+    console.log(result)
 
 }
+
 function divide(){
 
-    let result = num1 / num2
+    let result = number1 / number2
     document.getElementById("number-el3").textContent += result
+    console.log(result)
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

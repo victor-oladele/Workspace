@@ -1,12 +1,29 @@
 
-let reply = "something went wrong, pls try again"
-function paragraph(){
+// let reply = "something went wrong, pls try again"
+// function paragraph(){
 
-// console.log("button clicked")
+// // console.log("button clicked")
 
-document.getElementById("error").innerHTML = reply
+// document.getElementById("paragraph").innerHTML = reply
 
-// console.log("something went wrong, pls try again")
+// // console.log("something went wrong, pls try again")
 
 
+// }
+
+
+
+let reply = "something went wrong, pls try again later"
+
+function button(){
+
+    document.getElementById("error").textContent = reply
 }
+
+
+
+
+
+
+
+

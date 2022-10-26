@@ -1,29 +1,93 @@
+let featuredposts = ["check out the netflif post","here is the code for my project","i have just relaunched my portfolio"]
+
+// console.log(featuredposts[0])
 
 
-let mypoint = 3
-
-function add3point(){
-
-mypoint = mypoint + 3
-
-}
-
-function  remove1point(){
-
-mypoint = mypoint - 1
-
-}
+// challenge;
+// create an array that list your i.e experience,education,licence,skill or similar
+// the items of the array should strings.
 
 
-add3point()
-add3point()
-add3point()
 
-remove1point()
-remove1point()
+// let experience = ["CEO at scrimba","frontend developer at xeneta","people counter at norstat"]
+// console.log(experience.length)
 
 
-console.log(mypoint)
+
+
+
+// console.log(experience[0])
+// console.log(experience[1])
+// console.log(experience[2])
+
+
+// challenge
+// create an array that describes yourself,use the three primitive data types you have learned
+// it should contain your name(string),your age(number),whether you like pizza(boolean)
+
+// let per = ["per Harald Borgen" , 35, true ]
+// console.log(per)
+
+
+
+// ADDING AND REMOVING ITEMS FROM ARRAYS
+
+// let cards = [7,4]
+// cards.push(6)
+// console.log(cards)
+
+
+// Challenge
+// push the new message to the message array,and then log out the array.
+
+let messages = [
+    "hey,how is it going?",
+    "i am great,thank you! how about you?",
+    "all good.been working on my potforlio lately"
+ ]
+
+let newmessage = "same here!"
+// messages.push(newmessage)
+// console.log(messages)
+
+// // To remove last items from the list of array
+// messages.pop()
+// console.log(messages)
+
+
+messages.push(newmessage)
+console.log(messages)
+
+
+
+
+messages.pop()
+
+console.log(messages)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
